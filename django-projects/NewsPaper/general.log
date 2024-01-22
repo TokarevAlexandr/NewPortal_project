@@ -1,0 +1,12 @@
+2024-01-22 16:20:53,820 - INFO, Module: "autoreload", Message: Watching for file changes with StatReloader
+2024-01-22 16:21:07,909 - INFO, Module: "basehttp", Message: "GET /news/ HTTP/1.1" 200 8298
+2024-01-22 16:21:08,043 - INFO, Module: "basehttp", Message: "GET /static/css/styles.css HTTP/1.1" 200 236765
+2024-01-22 16:21:08,216 - WARNING, Module: "basehttp", Message: "GET /favicon.ico HTTP/1.1" 404 2685
+2024-01-22 16:21:25,716 - INFO, Module: "basehttp", Message: "GET /news/categories/1 HTTP/1.1" 200 6318
+2024-01-22 16:21:43,684 - INFO, Module: "basehttp", Message: "GET /news/categories/1 HTTP/1.1" 200 6318
+2024-01-22 16:21:46,126 - INFO, Module: "basehttp", Message: "GET /news/categories/1 HTTP/1.1" 200 6318
+2024-01-22 16:21:48,973 - INFO, Module: "basehttp", Message: "GET /news/categories/1 HTTP/1.1" 200 6318
+2024-01-22 16:21:49,501 - INFO, Module: "basehttp", Message: "GET /news/categories/1 HTTP/1.1" 200 6318
+2024-01-22 16:21:59,360 - INFO, Module: "basehttp", Message: "GET /news/?title__icontains=&author=1&min_pub_date= HTTP/1.1" 200 6699
+2024-01-22 16:22:12,701 - INFO, Module: "basehttp", Message: "GET /news/categories/1 HTTP/1.1" 200 6318
+2024-01-22 16:22:15,994 - INFO, Module: "basehttp", Message: "GET /news/categories/3 HTTP/1.1" 200 4770
